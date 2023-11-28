@@ -14,4 +14,4 @@
 
 // 4. When you're done, remove the comment from the code below.
 
-// answer.innerHTML = name + " is " + age;
+// answer.innerHTML = myName + " is " + age;
